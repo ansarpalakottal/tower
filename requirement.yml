@@ -1,0 +1,4 @@
+---
+- src: https://github.com/ansarpalakottal/test.git
+  scm: git
+  name: ansar_test
